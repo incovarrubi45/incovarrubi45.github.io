@@ -1,0 +1,28 @@
+INC MULTI-PAGE SITE — NEXT REVISION
+
+Updates in this revision:
+- Projects page features Let Me Be and links to the portfolio.
+- Defenders and Let Me Be exhibition documentation opens in a closable gallery overlay.
+- Exhibition pages link back to the artwork portfolio.
+- Young American Talent is identified as a second-place award.
+- Removed the duplicate Twirl view from the portfolio manifest.
+- Standardized The Prayer title in portfolio labels.
+
+Still needed from artist before final polish:
+- A clear original photo of the clean silver Let Me Be sculpture with its base fully visible. Existing package photos show the sculpture outdoors in its weathered state, so the silver photo cannot be substituted accurately without the original.
+- Higher-resolution originals for Daily Bread, Upon This Rock, and Worry Bout Wha The All Dead if the artist has them.
+- Additional exhibition photos for Senior Exhibition, Young American Talent, Otis Summer of Art, and other shows.
+
+Preview locally before publishing. Do not publish until reviewed.
+
+
+LATEST REVIEW UPDATE
+- Added the three newly supplied exhibition images: Young American Talent venue, Otis campus, and Additional Exhibitions image.
+- These are venue/context photos, not photographs of the artwork itself. Replace them later if you provide exhibition-specific documentation.
+- Review this version before publishing; do not overwrite the live site until you approve it.
+
+Review corrections in this package:
+- Homepage selected work restored to Anomaly (The Prayer is no longer in that slot).
+- Let Me Be is categorized as Projects on the Work page for navigation continuity.
+- Projects page uses the rusted installation photo; exhibition card leads with the silver-finish photo.
+- Senior Exhibition photo still needs a final file-path verification before publication; do not publish until its supplied artwork/exhibition photo is confirmed.

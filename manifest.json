@@ -1,0 +1,667 @@
+[
+  {
+    "src": "images/anomaly.jpeg",
+    "title": "Anomaly",
+    "original": "Anomaly.jpeg",
+    "num": "001",
+    "category": "Painting"
+  },
+  {
+    "src": "images/kenryu-003.jpg",
+    "title": "Kenry\u016b",
+    "original": "Kenryu\u2560\u00e4003.jpg",
+    "num": "003",
+    "category": "Sculpture"
+  },
+  {
+    "src": "images/dug-4-da-fun-002.jpg",
+    "title": "Dug 4 Da Fun",
+    "original": "Dug 4 Da Fun002.jpg",
+    "num": "002",
+    "category": "Sculpture"
+  },
+  {
+    "src": "images/seraphim-002.jpg",
+    "title": "Seraphim",
+    "original": "Seraphim002.jpg",
+    "num": "002",
+    "category": "Sculpture"
+  },
+  {
+    "src": "images/we-hold-our-own-001.jpg",
+    "title": "We Hold Our Own",
+    "original": "We Hold Our Own001.jpg",
+    "num": "001",
+    "category": "Sculpture"
+  },
+  {
+    "src": "images/lines-of-passage-101.jpg",
+    "title": "Lines of Passage",
+    "original": "Lines Of Passage101.jpg",
+    "num": "101",
+    "category": "Mixed Media"
+  },
+  {
+    "src": "images/seraphim-003.jpg",
+    "title": "Seraphim",
+    "original": "Seraphim003.jpg",
+    "num": "003",
+    "category": "Sculpture"
+  },
+  {
+    "src": "images/dug-4-da-fun-003.jpg",
+    "title": "Dug 4 Da Fun",
+    "original": "Dug 4 Da Fun003.jpg",
+    "num": "003",
+    "category": "Sculpture"
+  },
+  {
+    "src": "images/kenryu-002.jpg",
+    "title": "Kenry\u016b",
+    "original": "Kenryu\u2560\u00e4002.jpg",
+    "num": "002",
+    "category": "Sculpture"
+  },
+  {
+    "src": "images/dug-4-da-fun-001.jpg",
+    "title": "Dug 4 Da Fun",
+    "original": "Dug 4 Da Fun001.jpg",
+    "num": "001",
+    "category": "Sculpture"
+  },
+  {
+    "src": "images/seraphim-001.jpg",
+    "title": "Seraphim",
+    "original": "Seraphim001.jpg",
+    "num": "001",
+    "category": "Sculpture"
+  },
+  {
+    "src": "images/we-hold-our-own-002.jpg",
+    "title": "We Hold Our Own",
+    "original": "We Hold Our Own002.jpg",
+    "num": "002",
+    "category": "Sculpture"
+  },
+  {
+    "src": "images/we-hold-our-own-003.jpg",
+    "title": "We Hold Our Own",
+    "original": "We Hold Our Own003.jpg",
+    "num": "003",
+    "category": "Sculpture"
+  },
+  {
+    "src": "images/kenryu-001.jpg",
+    "title": "Kenry\u016b",
+    "original": "Kenryu\u2560\u00e4001.jpg",
+    "num": "001",
+    "category": "Sculpture"
+  },
+  {
+    "src": "images/upon-this-rock-002.jpg",
+    "title": "Upon This Rock",
+    "original": "Upon This Rock002.jpg",
+    "num": "002",
+    "category": "Sculpture"
+  },
+  {
+    "src": "images/seraphim-005.jpg",
+    "title": "Seraphim",
+    "original": "Seraphim005.jpg",
+    "num": "005",
+    "category": "Sculpture"
+  },
+  {
+    "src": "images/upon-this-rock-003.jpg",
+    "title": "Upon This Rock",
+    "original": "Upon This Rock003.jpg",
+    "num": "003",
+    "category": "Sculpture"
+  },
+  {
+    "src": "images/floating-cloud-101.jpg",
+    "title": "Floating Cloud",
+    "original": "Floating Cloud101.jpg",
+    "num": "101",
+    "category": "Drawing"
+  },
+  {
+    "src": "images/mp-001.jpg",
+    "title": "MP",
+    "original": "MP001.jpg",
+    "num": "001",
+    "category": "Sculpture"
+  },
+  {
+    "src": "images/twirl-004.jpg",
+    "title": "Twirl",
+    "original": "Twirl 5004.jpg",
+    "num": "004",
+    "category": "Sculpture"
+  },
+  {
+    "src": "images/mp-003.jpg",
+    "title": "MP",
+    "original": "MP003.jpg",
+    "num": "003",
+    "category": "Sculpture"
+  },
+  {
+    "src": "images/upon-this-rock-001.jpg",
+    "title": "Upon This Rock",
+    "original": "Upon This Rock001.jpg",
+    "num": "001",
+    "category": "Sculpture"
+  },
+  {
+    "src": "images/we-hold-our-own-004.jpg",
+    "title": "We Hold Our Own",
+    "original": "We Hold Our Own004.jpg",
+    "num": "004",
+    "category": "Sculpture"
+  },
+  {
+    "src": "images/shards-005.jpg",
+    "title": "Shards",
+    "original": "shards05.jpg",
+    "num": "005",
+    "category": "Sculpture"
+  },
+  {
+    "src": "images/continuous-stroke-101.jpg",
+    "title": "Continuous Stroke",
+    "original": "Continuous Stroke101.jpg",
+    "num": "101",
+    "category": "Drawing"
+  },
+  {
+    "src": "images/mp-002.jpg",
+    "title": "MP",
+    "original": "MP002.jpg",
+    "num": "002",
+    "category": "Sculpture"
+  },
+  {
+    "src": "images/confusion-and-prejudice-000.jpg",
+    "title": "Confusion And Prejudice",
+    "original": "Confusion And Prejudice0jpg.jpg",
+    "num": "000",
+    "category": "Painting"
+  },
+  {
+    "src": "images/skewered-balance-001.jpg",
+    "title": "Skewered Balance",
+    "original": "Skewered Balance001.jpg",
+    "num": "001",
+    "category": "Sculpture"
+  },
+  {
+    "src": "images/small-world-002.jpeg",
+    "title": "Small World",
+    "original": "Small World002.jpeg",
+    "num": "002",
+    "category": "Sculpture"
+  },
+  {
+    "src": "images/shiny-critter-101.jpg",
+    "title": "Shiny Critter",
+    "original": "Shiny Critter.jpg",
+    "num": "101",
+    "category": "Sculpture"
+  },
+  {
+    "src": "images/photoshoot-101.jpg",
+    "title": "PHOTOSHOOT",
+    "original": "Photoshoot101.jpg",
+    "num": "101",
+    "category": "Drawing"
+  },
+  {
+    "src": "images/skewered-balance-002.jpg",
+    "title": "Skewered Balance",
+    "original": "Skewered Balance002.jpg",
+    "num": "002",
+    "category": "Sculpture"
+  },
+  {
+    "src": "images/saran-002.jpeg",
+    "title": "SARAN",
+    "original": "Saran002.jpeg",
+    "num": "002",
+    "category": "Mixed Media"
+  },
+  {
+    "src": "images/skewered-balance-003.jpg",
+    "title": "Skewered Balance",
+    "original": "Skewered Balance003.jpg",
+    "num": "003",
+    "category": "Sculpture"
+  },
+  {
+    "src": "images/weight-to-bear-002.jpg",
+    "title": "Weight To Bear",
+    "original": "Weight To Bear002.jpg",
+    "num": "002",
+    "category": "Sculpture"
+  },
+  {
+    "src": "images/other-side-002.jpg",
+    "title": "Otherside",
+    "original": "Other Side002.jpg",
+    "num": "002",
+    "category": "Mixed Media"
+  },
+  {
+    "src": "images/weight-to-bear-003.jpg",
+    "title": "Weight To Bear",
+    "original": "Weight To Bear003.jpg",
+    "num": "003",
+    "category": "Sculpture"
+  },
+  {
+    "src": "images/24th-101.jpg",
+    "title": "24th",
+    "original": "24th101.jpg",
+    "num": "101",
+    "category": "Drawing"
+  },
+  {
+    "src": "images/weight-to-bear-001.jpg",
+    "title": "Weight To Bear",
+    "original": "Weight To Bear001.jpg",
+    "num": "001",
+    "category": "Sculpture"
+  },
+  {
+    "src": "images/saran-001.jpg",
+    "title": "SARAN",
+    "original": "Saran001.jpg",
+    "num": "001",
+    "category": "Mixed Media"
+  },
+  {
+    "src": "images/small-world-003.jpeg",
+    "title": "Small World",
+    "original": "Small World003.jpeg",
+    "num": "003",
+    "category": "Sculpture"
+  },
+  {
+    "src": "images/other-side-001.jpg",
+    "title": "Otherside",
+    "original": "Other Side001.jpg",
+    "num": "001",
+    "category": "Mixed Media"
+  },
+  {
+    "src": "images/throne-004.jpg",
+    "title": "Throne",
+    "original": "Throne004.jpg",
+    "num": "004",
+    "category": "Sculpture"
+  },
+  {
+    "src": "images/shards-002.jpg",
+    "title": "Shards",
+    "original": "Shards002.jpg",
+    "num": "002",
+    "category": "Sculpture"
+  },
+  {
+    "src": "images/blind-leading-blind-001.jpg",
+    "title": "Blind Leading Blind",
+    "original": "Blind Leading Blind001.jpg",
+    "num": "001",
+    "category": "Mixed Media"
+  },
+  {
+    "src": "images/let-me-be-000.jpg",
+    "title": "Let Me Be",
+    "original": "Let Me Be00.jpg",
+    "num": "000",
+    "category": "Sculpture"
+  },
+  {
+    "src": "images/shards-003.jpg",
+    "title": "Shards",
+    "original": "Shards003.jpg",
+    "num": "003",
+    "category": "Sculpture"
+  },
+  {
+    "src": "images/confusion-and-prejudice-001.jpg",
+    "title": "Confusion And Prejudice",
+    "original": "Confusion And Prejudice001.jpg",
+    "num": "001",
+    "category": "Painting"
+  },
+  {
+    "src": "images/ichabod-001.jpg",
+    "title": "Ichabad",
+    "original": "Ichabod001.jpg",
+    "num": "001",
+    "category": "Sculpture"
+  },
+  {
+    "src": "images/ichabod-003.jpg",
+    "title": "Ichabad",
+    "original": "Ichabod003.jpg",
+    "num": "003",
+    "category": "Sculpture"
+  },
+  {
+    "src": "images/confusion-and-prejudice-003.jpg",
+    "title": "Confusion And Prejudice",
+    "original": "Confusion And Prejudice003.jpg",
+    "num": "003",
+    "category": "Painting"
+  },
+  {
+    "src": "images/shards-001.jpg",
+    "title": "Shards",
+    "original": "Shards001.jpg",
+    "num": "001",
+    "category": "Sculpture"
+  },
+  {
+    "src": "images/blind-leading-blind-002.jpg",
+    "title": "Blind Leading Blind",
+    "original": "Blind Leading Blind002.jpg",
+    "num": "002",
+    "category": "Mixed Media"
+  },
+  {
+    "src": "images/blind-leading-blind-003.jpg",
+    "title": "Blind Leading Blind",
+    "original": "Blind Leading Blind003.jpg",
+    "num": "003",
+    "category": "Mixed Media"
+  },
+  {
+    "src": "images/confusion-and-prejudice-002.jpg",
+    "title": "Confusion And Prejudice",
+    "original": "Confusion And Prejudice002.jpg",
+    "num": "002",
+    "category": "Painting"
+  },
+  {
+    "src": "images/even-dead-so-i-live-101.jpg",
+    "title": "Even Dead So I Live",
+    "original": "Even Dead So I Live101.jpg",
+    "num": "101",
+    "category": "Drawing"
+  },
+  {
+    "src": "images/coab-004.jpg",
+    "title": "Coab",
+    "original": "coab004.jpg",
+    "num": "004",
+    "category": "Mixed Media"
+  },
+  {
+    "src": "images/ichabod-002.jpg",
+    "title": "Ichabad",
+    "original": "Ichabod002.jpg",
+    "num": "002",
+    "category": "Sculpture"
+  },
+  {
+    "src": "images/throne-002.jpg",
+    "title": "Throne",
+    "original": "Throne002.jpg",
+    "num": "002",
+    "category": "Sculpture"
+  },
+  {
+    "src": "images/shards-004.jpg",
+    "title": "Shards",
+    "original": "Shards004.jpg",
+    "num": "004",
+    "category": "Sculpture"
+  },
+  {
+    "src": "images/twirl-002.jpg",
+    "title": "Twirl",
+    "original": "Twirl002.jpg",
+    "num": "002",
+    "category": "Sculpture"
+  },
+  {
+    "src": "images/blind-leading-blind-006.jpg",
+    "title": "Blind Leading Blind",
+    "original": "Blind leading blind006.jpg",
+    "num": "006",
+    "category": "Mixed Media"
+  },
+  {
+    "src": "images/we-hold-our-own-005.jpg",
+    "title": "We Hold Our Own",
+    "original": "We Hold Our Own005 jpg.jpg",
+    "num": "005",
+    "category": "Sculpture"
+  },
+  {
+    "src": "images/throne-003.jpg",
+    "title": "Throne",
+    "original": "Throne003.jpg",
+    "num": "003",
+    "category": "Sculpture"
+  },
+  {
+    "src": "images/coab-001.jpg",
+    "title": "Coab",
+    "original": "Coab001.jpg",
+    "num": "001",
+    "category": "Mixed Media"
+  },
+  {
+    "src": "images/coab-003.jpg",
+    "title": "Coab",
+    "original": "coab003.jpg",
+    "num": "003",
+    "category": "Mixed Media"
+  },
+  {
+    "src": "images/confusion-and-prejudice-005.jpg",
+    "title": "Confusion And Prejudice",
+    "original": "Confusion And Prejudice005.jpg",
+    "num": "005",
+    "category": "Painting"
+  },
+  {
+    "src": "images/throne-001.jpg",
+    "title": "Throne",
+    "original": "Throne001.jpg",
+    "num": "001",
+    "category": "Sculpture"
+  },
+  {
+    "src": "images/upsi-down-is-he-101.jpg",
+    "title": "Upsi Down Is He",
+    "original": "Upsi Down Is He \u0393\u00c7\u00f6 upside-down drawing101.jpg",
+    "num": "101",
+    "category": "Drawing"
+  },
+  {
+    "src": "images/blind-leading-blind-004.jpg",
+    "title": "Blind Leading Blind",
+    "original": "Blind Leading Blind004.jpg",
+    "num": "004",
+    "category": "Mixed Media"
+  },
+  {
+    "src": "images/line-average-101.jpg",
+    "title": "Line Average",
+    "original": "Line Average101.jpg",
+    "num": "101",
+    "category": "Drawing"
+  },
+  {
+    "src": "images/blind-leading-blind-005.jpg",
+    "title": "Blind Leading Blind",
+    "original": "Blind Leading Blind005.jpg",
+    "num": "005",
+    "category": "Mixed Media"
+  },
+  {
+    "src": "images/confusion-and-prejudice-004.jpg",
+    "title": "Confusion And Prejudice",
+    "original": "Confusion And Prejudice004.jpg",
+    "num": "004",
+    "category": "Painting"
+  },
+  {
+    "src": "images/coab-002.jpg",
+    "title": "Coab",
+    "original": "Coab002.jpg",
+    "num": "002",
+    "category": "Mixed Media"
+  },
+  {
+    "src": "images/let-me-be-002.jpg",
+    "title": "Let Me Be",
+    "original": "Let Me Be002.jpg",
+    "num": "002",
+    "category": "Sculpture"
+  },
+  {
+    "src": "images/the-prayer-003.jpg",
+    "title": "Prayer",
+    "original": "The Prayer003.jpg",
+    "num": "003",
+    "category": "Mixed Media"
+  },
+  {
+    "src": "images/upon-this-rock-101.jpg",
+    "title": "Upon This Rock",
+    "original": "Upon  This Rock004g.jpg",
+    "num": "101",
+    "category": "Sculpture"
+  },
+  {
+    "src": "images/larry-the-lobster-101.jpg",
+    "title": "Larry The Lobster",
+    "original": "Larry The Lobster101.jpg",
+    "num": "101",
+    "category": "Sculpture"
+  },
+  {
+    "src": "images/the-prayer-002.jpg",
+    "title": "Prayer",
+    "original": "The Prayer002.jpg",
+    "num": "002",
+    "category": "Mixed Media"
+  },
+  {
+    "src": "images/small-world-001.jpg",
+    "title": "Small world",
+    "original": "Small world001.jpg",
+    "num": "001",
+    "category": "Sculpture"
+  },
+  {
+    "src": "images/otherside-003.jpg",
+    "title": "Otherside",
+    "original": "Otherside003.jpg",
+    "num": "003",
+    "category": "Mixed Media"
+  },
+  {
+    "src": "images/let-me-be-001.jpg",
+    "title": "Let Me Be",
+    "original": "Let Me Be001.jpg",
+    "num": "001",
+    "category": "Sculpture"
+  },
+  {
+    "src": "images/twirl-001.jpg",
+    "title": "Twirl",
+    "original": "Twril001.jpg",
+    "num": "001",
+    "category": "Sculpture"
+  },
+  {
+    "src": "images/the-prayer-001.jpg",
+    "title": "Prayer",
+    "original": "The Prayer001.jpg",
+    "num": "001",
+    "category": "Mixed Media"
+  },
+  {
+    "src": "images/let-me-be-004.jpg",
+    "title": "Let Me Be",
+    "original": "Let Me Be004.jpg",
+    "num": "004",
+    "category": "Sculpture"
+  },
+  {
+    "src": "images/curbside-street-chicken-101.jpg",
+    "title": "Curbside Street Chicken",
+    "original": "Curbside Street Chicken101.jpg",
+    "num": "101",
+    "category": "Drawing"
+  },
+  {
+    "src": "images/snow-storm-chaos-101.jpg",
+    "title": "Snow Storm Chaos",
+    "original": "Snow Storm Chaos101.jpg",
+    "num": "101",
+    "category": "Drawing"
+  },
+  {
+    "src": "images/my-starry-dark-night-003.jpg",
+    "title": "My Starry/Dark Night",
+    "original": "My Starry:Dark Night003.jpg",
+    "num": "003",
+    "category": "Mixed Media"
+  },
+  {
+    "src": "images/daily-bread-101.jpg",
+    "title": "Daily Bread",
+    "original": "Daily Bread101.jpg",
+    "num": "101",
+    "category": "Drawing"
+  },
+  {
+    "src": "images/time-constraint-101.jpg",
+    "title": "Time Constraint",
+    "original": "Time Constraint101.jpg",
+    "num": "101",
+    "category": "Drawing"
+  },
+  {
+    "src": "images/my-starry-dark-night-002.jpg",
+    "title": "My Starry/Dark Night",
+    "original": "My Starry:Dark Night002.jpg",
+    "num": "002",
+    "category": "Mixed Media"
+  },
+  {
+    "src": "images/the-prayer-004.jpg",
+    "title": "Prayer",
+    "original": "The Prayer004.jpg",
+    "num": "004",
+    "category": "Mixed Media"
+  },
+  {
+    "src": "images/self-portrait-101.jpg",
+    "title": "Self Portrait",
+    "original": "Self Portrait 2101.jpg",
+    "num": "101",
+    "category": "Drawing"
+  },
+  {
+    "src": "images/worry-bout-wha-they-all-dead-101.jpg",
+    "title": "Worry Bout Wha The All Dead",
+    "original": "Worry Bout Wha They All Dead101.jpg",
+    "num": "101",
+    "category": "Drawing"
+  },
+  {
+    "src": "images/my-starry-dark-night-001.jpg",
+    "title": "My Starry/Dark Night",
+    "original": "My Starry:Dark Night001.jpg",
+    "num": "001",
+    "category": "Mixed Media"
+  }
+]
